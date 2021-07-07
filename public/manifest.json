@@ -1,5 +1,5 @@
-
-  {  "name": "Know You Budget",
+{
+    "name": "Know You Budget",
     "short_name": "Budget Tracker",
     "icons": [
         {
@@ -17,4 +17,4 @@
     "background_color": "#ffffff",
     "start_url": "/",
     "display": "standalone"
-  }
+}
